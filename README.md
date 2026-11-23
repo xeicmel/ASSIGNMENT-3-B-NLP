@@ -1,9 +1,9 @@
-# Politeness Detection in Malaysian TikTok Comments
+# EVALUATING LLMS IN DETECTING POLITENESS IN MALAYSIA TIKTOK COMMENTS
 
 ## Project Overview
-This project implements a text classification system to detect politeness in Malaysian TikTok comments. Comments are classified into two categories: Polite and Impolite.
+This project focuses on evaluating approaches for detecting politeness in Malaysian TikTok comments. The classification task categorises comments into two classes: Polite and Impolite.
 
-This implementation focuses on traditional machine learning baseline models as part of the broader research objective of evaluating politeness detection approaches.
+As part of the current implementation, traditional machine learning baseline models are developed using TF-IDF feature extraction. These baseline models provide an initial benchmark for the broader research objective of evaluating Large Language Models (LLMs) in politeness detection.
 
 ## Dataset
 The dataset consists of 549 Malaysian TikTok comments labelled as Polite or Impolite.
